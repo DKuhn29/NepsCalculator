@@ -12,9 +12,9 @@
 2. Operating system: Windows, macOS or Linux
 
 ## Demostration
-![Example1](images/image.png)
-![Example2](images/image-1.png)
-![Example3](images/image-2.png)
+![Example1](Images/image.png)
+![Example2](Images/image-1.png)
+![Example3](Images/image-2.png)
 
 
 ## Structure
@@ -29,5 +29,5 @@
     │── README.md                 # Project documentation
 ```
 
-##License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
