@@ -36,10 +36,7 @@ First, clone the repository to your local machine:
 git clone https://github.com/DKuhn29/NepsCalculator 
 cd NepsCalculator
 ```
-
-### 2. Install a C Compiler (if needed)
-
-### 3. Copile the code
+### 2. Copile the code
 To compile the program, use a C compiler. If you don't have a C compiler installed, here are some examples based on your operating system.
 1. Windows: Download and install MinCW, which includes GCC
 2. macOs: it is typically pre-installed. 
