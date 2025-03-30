@@ -15,7 +15,7 @@ Opção: 1
 Digite o primeiro número: 2
 Digite o segundo número: 3
 Resultado: 2 + 3 = 5
-´´´
+```
 
 ## Demostration
 ![Example1](Images/image.png) -> Home Screen
