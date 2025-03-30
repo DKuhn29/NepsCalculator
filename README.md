@@ -10,10 +10,11 @@
 ## Usage
 The program provides basic calculator operations. After running the program, input the desired operation and the two numbers to perform the calculation.
 A Addition example: 
+
 ![Example](Images/image-3.png)
 
 ## Demostration
-![Example1](Images/image.png) -> Home Screan
+![Example1](Images/image.png) -> Home Screen
 
 ![Example2](Images/image-1.png) -> Operation Example
 
