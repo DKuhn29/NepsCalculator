@@ -29,6 +29,18 @@ Resultado: 2 + 3 = 5
 1. C Compiler (GCC recommended)
 2. Operating system: Windows, macOS or Linux
 
+## Terminal Installation
+To compile and run the program, you'll need to use a terminal or command prompt on your system. Below are instructions for setting up the terminal on different operating systems:
+### On Windows:
+#### Install MinGW: [MinGW](https://osdn.net/projects/mingw/releases/).
+
+### On macOS:
+macOS comes with the Terminal application pre-installed, which is compatible with UNIX-based commands.
+**Install Xcode Command Line Tools:**
+   Open the Terminal and run the following command:
+   ```bash
+   xcode-select --install
+
 
 ## Installation
 ### 1. Clone the repository
