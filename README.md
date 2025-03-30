@@ -14,7 +14,9 @@ A Addition example:
 
 ## Demostration
 ![Example1](Images/image.png) -> Home Screan
+
 ![Example2](Images/image-1.png) -> Operation Example
+
 ![Example3](Images/image-2.png) -> Turn Off example
 
 
@@ -35,7 +37,7 @@ cd NepsCalculator
 To compile the program, use a C compiler like GCC.
 
 ## Structure
-
+```
     NEPSCALCULATOR/  
     │── Images/                   # Directory for screenshots
     │   │── image-1.png           # Example screenshot 1
