@@ -12,9 +12,10 @@
 2. Operating system: Windows, macOS or Linux
 
 ## Demostration
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Example1](images/image.png)
+![Example2](images/image-1.png)
+![Example3](images/image-2.png)
+
 
 ## Structure
 ```
@@ -26,7 +27,7 @@
     │── calculator.c              # Main C program file
     │── LICENSE                   # License file
     │── README.md                 # Project documentation
-    ```
+```
 
 ##License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
