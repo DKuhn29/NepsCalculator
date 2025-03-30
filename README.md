@@ -9,9 +9,13 @@
 
 ## Usage
 The program provides basic calculator operations. After running the program, input the desired operation and the two numbers to perform the calculation.
-A Addition example: 
-
-![Example](Images/image-3.png)
+### Example of Addition: 
+```
+Opção: 1
+Digite o primeiro número: 2
+Digite o segundo número: 3
+Resultado: 2 + 3 = 5
+´´´
 
 ## Demostration
 ![Example1](Images/image.png) -> Home Screen
