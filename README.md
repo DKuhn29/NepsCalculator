@@ -24,23 +24,9 @@ Resultado: 2 + 3 = 5
 
 ![Example3](Images/image-2.png) -> Turn Off example
 
-
 ## Requirements
 1. C Compiler (GCC recommended)
 2. Operating system: Windows, macOS or Linux
-
-## Terminal Installation
-To compile and run the program, you'll need to use a terminal or command prompt on your system. Below are instructions for setting up the terminal on different operating systems:
-### On Windows:
-#### Install MinGW: [MinGW](https://osdn.net/projects/mingw/releases/).
-
-### On macOS:
-macOS comes with the Terminal application pre-installed, which is compatible with UNIX-based commands.
-**Install Xcode Command Line Tools:**
-   Open the Terminal and run the following command:
-   ```bash
-   xcode-select --install
-
 
 ## Installation
 ### 1. Clone the repository
@@ -50,8 +36,13 @@ First, clone the repository to your local machine:
 git clone https://github.com/DKuhn29/NepsCalculator 
 cd NepsCalculator
 ```
-### 2. Copile the code
-To compile the program, use a C compiler like GCC.
+
+### 2. Install a C Compiler (if needed)
+
+### 3. Copile the code
+To compile the program, use a C compiler. If you don't have a C compiler installed, here are some examples based on your operating system.
+1. Windows: Download and install MinCW, which includes GCC
+2. macOs: it is typically pre-installed. 
 
 ## Structure
 ```
