@@ -10,12 +10,12 @@
 ## Usage
 The program provides basic calculator operations. After running the program, input the desired operation and the two numbers to perform the calculation.
 A Addition example: 
-![Example](image-3.png)
+![Example](Images/image-3.png)
 
 ## Demostration
-![Example1](Images/image.png)
-![Example2](Images/image-1.png)
-![Example3](Images/image-2.png)
+![Example1](Images/image.png) -> Home Screan
+![Example2](Images/image-1.png) -> Operation Example
+![Example3](Images/image-2.png) -> Turn Off example
 
 
 ## Requirements
@@ -30,9 +30,12 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/DKuhn29/NepsCalculator 
 cd NepsCalculator
+```
+### 2. Copile the code
+To compile the program, use a C compiler like GCC.
 
 ## Structure
-```
+
     NEPSCALCULATOR/  
     │── Images/                   # Directory for screenshots
     │   │── image-1.png           # Example screenshot 1
