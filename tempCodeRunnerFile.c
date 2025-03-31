@@ -15,7 +15,12 @@ int main(){
 
     while(scanf("%d", &a) && a!= 5){
         if(a> 5 || a < 1){
-            printf("Essa opção é inválida, por favor digitar outro número/n");
+            printf("Essa opção é inválida, por favor digitar outro número\n");
+            while(scanf("%d", &a) && a < 1 || a > 5){
+                printf("Essa opção é inválida, por favor digitar outro número\n");
+            }
+            
+
         }
         float b, c;
         printf("Digite o primeiro número: ");

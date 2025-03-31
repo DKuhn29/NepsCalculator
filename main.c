@@ -11,12 +11,18 @@ int main(){
     printf("4. Divisão\n");
     printf("5. Sair\n");
     printf("Opção:\n");
-    int a;
+    int a, e;
 
     while(scanf("%d", &a) && a!= 5){
         if(a> 5 || a < 1){
-            printf("Essa opção é inválida, por favor digitar outro número/n");
+            printf("Essa opção é inválida, por favor digitar outro número\n");
+            while(scanf("%d", &e) && e < 1 || e > 5){
+                printf("Essa opção é inválida, por favor digitar outro número\n");
+            }
+            
+
         }
+        a = e;
         float b, c;
         printf("Digite o primeiro número: ");
         scanf("%f", &b);
